@@ -86,6 +86,12 @@ The notebook follows this step-by-step process:
 
 ---
 
+## 🧑‍💻 Technologies & Tools Used
+
+[![My Skills](https://skillicons.dev/icons?i=py,vscode)](https://skillicons.dev)
+
+---
+
 ## 🙌 Acknowledgements
 
 Thanks to all open-source libraries and contributors to the datasets used in this project.
